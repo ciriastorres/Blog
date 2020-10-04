@@ -3,3 +3,11 @@ body{
     font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
     color: darkblue;
 }
+
+.cabecera{
+    background-color: #33c;
+    color: #fff;
+    margin: 0;
+    padding: 0.3em;
+    font-weight: bold;
+}
