@@ -3,3 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: darkblue;
 }
+
+.cabecera{
+    background-color: #33c;
+    color: #fff;
+    margin: 0;
+    padding: 0.3em;
+    font-weight: bold;
+}
